@@ -29,3 +29,15 @@ make clear
 # cmakelist
 
 CMakeProject 文件夹下为CMakelist.txt的模版
+
+## 使用make运行可执行文件
+
+```shell
+make build
+```
+
+## 使用makefile清除构建文件
+
+```shell
+make clear
+```
