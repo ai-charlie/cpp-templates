@@ -24,3 +24,8 @@ make run
 ```shell
 make clear
 ```
+
+
+# cmakelist
+
+CMakeProject 文件夹下为CMakelist.txt的模版
